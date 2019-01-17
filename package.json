@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
+    "html-template-tag": "^2.0.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.9"
   },
