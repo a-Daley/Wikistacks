@@ -4,6 +4,7 @@ const layout = require('./views/layout');
 const { db } = require('./models')
 const wikiRouter = require('./routes/wiki')
 const userRouter = require('./routes/user')
+//test
 
 db.authenticate().
 then(() => {
